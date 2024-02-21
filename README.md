@@ -1,2 +1,2 @@
 # Text-Summarizer
-Text summirizer project following the tutorial on youtube by krishnaik
+Text summarizer project following the tutorial on youtube by krishnaik
